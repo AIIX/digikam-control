@@ -1,0 +1,55 @@
+{
+  "next_image": [
+    "next",
+    "next image",
+    "go to next image"
+  ],
+  "previous_image": [
+    "previous",
+    "previous image",
+    "go to previous image"
+    ],
+  "first_image": [
+    "first",
+    "first image",
+    "go to first image",
+    "start image"
+    ],
+  "last_image": [
+    "last",
+    "last image",
+    "go to last image",
+    "end image"
+    ],
+  "view_refresh": [
+    "view refresh",
+    "refresh view",
+    "refresh image",
+    "refresh"
+    ],
+  "browse_album": [
+    "browse album",
+    "show album"
+    ],
+  "rotate_ccw": [
+    "rotate counter clockwise",
+    "rotate counter clock wise"
+    ],
+  "rotate_cw": [
+    "rotate clockwise",
+    "rotate clock wise"
+    ],
+  "flip_horizontal": [
+    "flip horizontal"
+    ],
+  "flip_vertical": [
+    "flip vertical"
+    ],
+  "selectAll": [
+    "select all"
+    ],
+  "selectInvert":[
+    "select inverse",
+    "select invert"
+    ]
+}
