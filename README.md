@@ -23,7 +23,7 @@ This skill enables an user to control the [DigiKam client](https://www.digikam.o
 - Python Dbus package is required and copying the Python Dbus folder and lib from your system python install over to /home/$USER/.virtualenvs/mycroft/lib/python2.7/site-packages/.
 
 ## Examples
-##### Some of the actions, for actions refer to "actions.json" file: 
+##### Some of the actions, for more actions refer to "actions.json" file: 
 
 ###### Next Image
 * "Hey Mycroft, in digicam next image"
