@@ -30,7 +30,6 @@ class DigiKamControlSkill(MycroftSkill):
         digicam_bus = ""
         for method in session_bus.list_names():
             if method.find("digikam") != -1:
-                print method
                 digicam_bus = method
                 break
 
